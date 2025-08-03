@@ -40,3 +40,8 @@ Advanced exploitation techniques, malware analysis, red teaming strategies and v
 ## 🚀 Mission
 To continuously improve my skills, contribute to the cybersecurity community, and help build a safer digital world.
 
+---
+
+## 🌐 Explore More  
+[![Portfolio](https://img.shields.io/badge/Click%20here%20and%20visit%20my%20portfolio-8A2BE2)](https://blancacal.github.io/portfolio/)  
+💡 Curious about my work? Run `whoami` and find out!  
