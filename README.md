@@ -4,7 +4,9 @@
 Hi! I am Cybersecurity Analyst with a Bachelor’s Degree in Computer Science Engineering and Master’s Degree in Cybersecurity.
 
 Passionate about safeguarding systems and uncovering vulnerabilities.
+
 Focused on penetration testing, vulnerability assessment, digital forensics, and security hardening to protect critical assets.
+
 I enjoy attending cybersecurity conferences and events to stay inspired, expand my knowledge, and embrace new challenges.
 
 ---
