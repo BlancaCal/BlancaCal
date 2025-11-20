@@ -31,6 +31,7 @@ I enjoy attending cybersecurity conferences and events to stay inspired, expand 
 <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" title="Certified Ethical Hacker" alt="Ethical Hacker" with="80" height="80"/>&nbsp;
 <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" title="AZURE Fundamentals" alt="AZURE Fundamentals" with="80" height="80"/>&nbsp;
 <img src="https://cyberlandsec.com/wp-content/uploads/2024/09/Waffle-Soft3-1536x768.png" title="Penetration tester" alt="Penetration Tester" with="80" height="80"/>&nbsp;
+<img src="https://www.certipedia.com/logos/001/132/400/0217527739_en.png?1762876894" title="27001 Internal Auditor" alt="Auditor" with="80" height="80"/>&nbsp;
 
 ---
 
