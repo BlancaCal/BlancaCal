@@ -32,6 +32,7 @@ I enjoy attending cybersecurity conferences and events to stay inspired, expand 
 <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" title="AZURE Fundamentals" alt="AZURE Fundamentals" with="80" height="80"/>&nbsp;
 <img src="https://cyberlandsec.com/wp-content/uploads/2024/09/Waffle-Soft3-1536x768.png" title="Penetration tester" alt="Penetration Tester" with="80" height="80"/>&nbsp;
 <img src="https://www.certipedia.com/logos/001/132/400/0217527739_en.png?1762876894" title="27001 Internal Auditor" alt="Auditor" with="80" height="80"/>&nbsp;
+<img src="https://learn.microsoft.com/es-es/media/learn/certification/badges/github-advanced-security.svg?branch=main" title="27001 Internal Auditor" alt="Auditor" with="80" height="80"/>&nbsp;
 
 ---
 
